@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a0191b0-f477-408d-9919-28ece3d3b89d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/1_b5a1a6e1png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index_b210486f5a031eebbfc3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/search_74b23d4ae1c1ea4307e9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/8e/47/4738eeb2ef7dcc6b611dc0f3d0129f111d57603214ffcab5a17fd0ed041bf3c376a69e064b97a155587cdd86e9bffa19b88c6ef67e000e6755ba9c39bdc5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/69/4e/766d757230b35b0259282e5f1048065d913247a42202c8ce55e26fddf19e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/df/d4/5508f491c32e5f00b09a15546af67e651099371b6a1451aebd91542ef277" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.prod.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.dev.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587816653514</updated>
-      <workItem from="1587816655949" duration="7683000" />
+      <workItem from="1587816655949" duration="7802000" />
     </task>
     <servers />
   </component>
