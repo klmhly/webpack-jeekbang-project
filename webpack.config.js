@@ -1,5 +1,7 @@
 'use strict'
 const path = require('path')
+const webpack = require('webpack')
+
 module.exports = {
     entry: {
         index: './src/index.js',
@@ -44,7 +46,11 @@ module.exports = {
         ]
     },
     plugins: [
-        // new HtmlWebpackPlugin()
+        new webpack.HotModuleReplacementPlugin()
     ],
-    mode: 'production'
+    devServer: {
+        contentBase: './dist',
+        hot: true
+    },
+    mode: 'development'
 }
